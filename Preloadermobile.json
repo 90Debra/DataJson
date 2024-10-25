@@ -1,0 +1,621 @@
+{
+  "skeleton": {
+    "images": "images/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "root!@1",
+      "parent": "root",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PreloaderModule",
+      "parent": "root!@1",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Main_landscape",
+      "parent": "PreloaderModule",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "content",
+      "parent": "Main_landscape",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "Background",
+      "parent": "content",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IGTLogo",
+      "parent": "content",
+      "x": 1584,
+      "y": 1282.800000000001,
+      "width": 320,
+      "height": 196.3999999999976,
+      "widthRelative": 10.1010101010101,
+      "heightRelative": 13.638888888888722,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0.5,
+        1
+      ],
+      "anchorMax": [
+        0.5,
+        1
+      ],
+      "offsetMin": [
+        -160,
+        -255.3999999999976
+      ],
+      "offsetMax": [
+        160,
+        -59
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": false
+    },
+    {
+      "name": "IsbLogo",
+      "parent": "content",
+      "x": 1584,
+      "y": 1282.800000000001,
+      "width": 320,
+      "height": 196.3999999999976,
+      "widthRelative": 10.1010101010101,
+      "heightRelative": 13.638888888888722,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0.5,
+        1
+      ],
+      "anchorMax": [
+        0.5,
+        1
+      ],
+      "offsetMin": [
+        -160,
+        -255.3999999999976
+      ],
+      "offsetMax": [
+        160,
+        -59
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "PreloaderComponent",
+      "parent": "content",
+      "x": 1584,
+      "y": 720,
+      "width": 3168,
+      "height": 1440,
+      "widthRelative": 100,
+      "heightRelative": 100,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "skewX": 0,
+      "skewY": 0,
+      "pivotX": 0.5,
+      "pivotY": 0.5,
+      "anchorMin": [
+        0,
+        0
+      ],
+      "anchorMax": [
+        0,
+        0
+      ],
+      "offsetMin": [
+        0,
+        0
+      ],
+      "offsetMax": [
+        3168,
+        1440
+      ],
+      "visibleSelf": true,
+      "isMask": false,
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "DefaultBackground",
+      "bone": "Background",
+      "attachment": "DefaultBackground",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "IGT-Play-Digital-Logo",
+      "bone": "IGTLogo",
+      "attachment": "IGT-Play-Digital-Logo",
+      "components": [],
+      "visibleAtInit": false
+    },
+    {
+      "name": "copyrightYear",
+      "bone": "IGTLogo",
+      "attachment": "copyrightYear",
+      "components": [],
+      "visibleAtInit": false
+    },
+    {
+      "name": "iSoftBet-Logo",
+      "bone": "IsbLogo",
+      "attachment": "iSoftBet-Logo",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "loadBarEmpty",
+      "bone": "PreloaderComponent",
+      "attachment": "loadBarEmpty",
+      "components": [],
+      "visibleAtInit": true
+    },
+    {
+      "name": "loadBarFull",
+      "bone": "PreloaderComponent",
+      "attachment": "loadBarFull",
+      "components": [],
+      "visibleAtInit": true
+    }
+  ],
+  "skins": {
+    "default": {
+      "DefaultBackground": {
+        "DefaultBackground": {
+          "x": 1587,
+          "y": 720,
+          "width": 3178,
+          "height": 1440,
+          "widthRelative": 100.31565656565658,
+          "heightRelative": 100,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -2,
+            0
+          ],
+          "offsetMax": [
+            3176,
+            1440
+          ],
+          "visibleSelf": true,
+          "name": "40333191efaaa692495c04d78c4be7dbbbf8c4089c4aDefaultBackground-png",
+          "originalName": "DefaultBackground",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "IGT-Play-Digital-Logo": {
+        "IGT-Play-Digital-Logo": {
+          "x": 160,
+          "y": 42.39999999999759,
+          "width": 800,
+          "height": 212,
+          "widthRelative": 250,
+          "heightRelative": 107.9429735234229,
+          "rotation": 0,
+          "scaleX": 0.4,
+          "scaleY": 0.39999999999997726,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -240,
+            -63.60000000000241
+          ],
+          "offsetMax": [
+            560,
+            148.3999999999976
+          ],
+          "visibleSelf": false,
+          "name": "4033390ea3a07402869e37cd128b04c1744a17e6e646IGT--Play--Digital--Logo-png",
+          "originalName": "IGT-Play-Digital-Logo",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "copyrightYear": {
+        "copyrightYear": {
+          "x": 160,
+          "y": 182.6299999999988,
+          "width": 534.64,
+          "height": 65.51999999999998,
+          "widthRelative": 167.075,
+          "heightRelative": 33.36048879837107,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -107.32,
+            149.8699999999988
+          ],
+          "offsetMax": [
+            427.32,
+            215.3899999999988
+          ],
+          "visibleSelf": true,
+          "type": "textField",
+          "name": "copyrightYear",
+          "properties": {
+            "content": "",
+            "fontName": "NotoSans-Bold",
+            "fontSize": "38",
+            "fontStyle": "normal",
+            "fontVariant": "normal",
+            "fontWeight": "normal",
+            "colors": [
+              "ffffff"
+            ],
+            "gradientType": "vertical",
+            "fillGradientStops": [
+              0
+            ],
+            "strokeColor": "ffffff",
+            "strokeSize": 0,
+            "strokeLineJoin": "round",
+            "miterLimit": 10,
+            "letterSpacing": 1,
+            "textBaseline": "alphabetic",
+            "dropShadow": false,
+            "dropShadowColor": "ffffff",
+            "dropShadowAlpha": 1,
+            "dropShadowAngle": 0.5235987755982988,
+            "dropShadowBlur": 0,
+            "dropShadowDistance": 5,
+            "wordWrap": true,
+            "breakWords": false,
+            "align": "center",
+            "vAlign": "center",
+            "wordWrapWidth": 534.64,
+            "lineHeight": 38,
+            "padding": 38,
+            "trim": false
+          }
+        }
+      },
+      "iSoftBet-Logo": {
+        "iSoftBet-Logo": {
+          "x": 160,
+          "y": 42.39999999999759,
+          "width": 530,
+          "height": 180,
+          "widthRelative": 165.625,
+          "heightRelative": 91.64969450101945,
+          "rotation": 0,
+          "scaleX": 0.5,
+          "scaleY": 0.5,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0,
+            0
+          ],
+          "anchorMax": [
+            0,
+            0
+          ],
+          "offsetMin": [
+            -105,
+            -47.60000000000241
+          ],
+          "offsetMax": [
+            425,
+            132.3999999999976
+          ],
+          "visibleSelf": true,
+          "name": "4033b3ef28e6028dd324a9ad87a836c97de23430771eISOFTBET--Logo--Vector--White-png",
+          "originalName": "ISOFTBET-Logo-Vector-White",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "loadBarEmpty": {
+        "loadBarEmpty": {
+          "x": 1584,
+          "y": 1310,
+          "width": 1135,
+          "height": 15,
+          "widthRelative": 35.82702020202021,
+          "heightRelative": 1.0416666666666665,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0.5,
+            1
+          ],
+          "anchorMax": [
+            0.5,
+            1
+          ],
+          "offsetMin": [
+            -567.5,
+            -137.5
+          ],
+          "offsetMax": [
+            567.5,
+            -122.5
+          ],
+          "visibleSelf": true,
+          "name": "403316a87ebb7a3c35174d145cf19814c044d4c7fcc3PreloaderBarBackground-png",
+          "originalName": "PreloaderBarBackground",
+          "opacity": 0.25,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      },
+      "loadBarFull": {
+        "loadBarFull": {
+          "x": 1117,
+          "y": 1310,
+          "width": 200,
+          "height": 15,
+          "widthRelative": 6.313131313131313,
+          "heightRelative": 1.0416666666666665,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "anchorMin": [
+            0.5,
+            1
+          ],
+          "anchorMax": [
+            0.5,
+            1
+          ],
+          "offsetMin": [
+            -567,
+            -137.5
+          ],
+          "offsetMax": [
+            -367,
+            -122.5
+          ],
+          "visibleSelf": true,
+          "name": "403316a87ebb7a3c35174d145cf19814c044d4c7fcc3PreloaderBar-png",
+          "originalName": "PreloaderBar",
+          "opacity": 1,
+          "blendMode": "",
+          "color": "ffffff"
+        }
+      }
+    }
+  },
+  "bpm": 100
+}
