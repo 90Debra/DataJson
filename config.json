@@ -1,0 +1,106 @@
+{
+  "general": {
+    "useHelpPanel": true,
+    "useCreditPanel": true,
+    "useBackgroundMusic": true
+  },
+  "strings": {
+    "APP_TITLE": "3D Sport Words",
+    "APP_INFO": "",
+    "NEW_GAME": "NEW GAME",
+    "HELP": "HELP",
+    "HELP_TEXT": "Help text",
+    "SETTING": "SETTING",
+    "CREDITS": "CREDITS",
+    "CREDIT_TEXT": "Music and sound effects from opengameart.org"
+  },
+  "data": {
+    "floorY": -50,
+    "camY": 700,
+    "rockCount": 4,
+    "poleHeight": 800,
+    "rockDistance": 800,
+    "level": [
+      {
+        "type": "golf",
+        "duration": 30
+      },
+      {
+        "type": "boxing",
+        "duration": 25
+      },
+      {
+        "type": "tennis",
+        "duration": 25
+      },
+      {
+        "type": "rugby",
+        "duration": 25
+      },
+      {
+        "type": "soccer",
+        "duration": 30
+      },
+      {
+        "type": "chess",
+        "duration": 20
+      },
+      {
+        "type": "hockey",
+        "duration": 30
+      },
+      {
+        "type": "judo",
+        "duration": 20
+      },
+      {
+        "type": "rowing",
+        "duration": 25
+      },
+      {
+        "type": "fencing",
+        "duration": 26
+      },
+      {
+        "type": "archery",
+        "duration": 32
+      },
+      {
+        "type": "baseball",
+        "duration": 32
+      },
+      {
+        "type": "surfing",
+        "duration": 30
+      },
+      {
+        "type": "cycling",
+        "duration": 35
+      },
+      {
+        "type": "badminton",
+        "duration": 40
+      },
+      {
+        "type": "swimming",
+        "duration": 35
+      },
+      {
+        "type": "skiing",
+        "duration": 34
+      },
+      {
+        "type": "billiards",
+        "duration": 40
+      },
+      {
+        "type": "volleyball",
+        "duration": 40
+      },
+      {
+        "type": "basketball",
+        "duration": 40
+      }
+    ]
+  }
+}
